@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\bin\Debug\net7.0\MMC.Application.deps.json
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\bin\Debug\net7.0\MMC.Application.runtimeconfig.json
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\bin\Debug\net7.0\MMC.Application.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\bin\Debug\net7.0\MMC.Application.pdb
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\refint\MMC.Application.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.pdb
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\ref\MMC.Application.dll
