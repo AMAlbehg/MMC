@@ -1099,6 +1099,21 @@
             "rid": "win"
           }
         }
+      },
+      "MMC.DOMAIN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
+          "Microsoft.Extensions.DependencyInjection": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MMC.DOMAIN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MMC.DOMAIN.dll": {}
+        }
       }
     }
   },
@@ -2970,11 +2985,17 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MMC.DOMAIN/1.0.0": {
+      "type": "project",
+      "path": "../MMC.DOMAIN/MMC.DOMAIN.csproj",
+      "msbuildProject": "../MMC.DOMAIN/MMC.DOMAIN.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper >= 12.0.1",
+      "MMC.DOMAIN >= 1.0.0",
       "MediatR >= 12.2.0",
       "Microsoft.EntityFrameworkCore >= 7.0.15",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.15",
@@ -3009,7 +3030,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
+              "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -29,4 +29,8 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MMC.DOMAIN\MMC.DOMAIN.csproj" />
+  </ItemGroup>
+
 </Project>
