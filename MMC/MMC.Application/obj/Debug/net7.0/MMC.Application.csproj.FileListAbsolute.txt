@@ -12,3 +12,6 @@ C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\re
 C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.pdb
 C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\ref\MMC.Application.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\bin\Debug\net7.0\MMC.DOMAIN.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\bin\Debug\net7.0\MMC.DOMAIN.pdb
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.Application\obj\Debug\net7.0\MMC.Application.csproj.CopyComplete

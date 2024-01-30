@@ -74,3 +74,15 @@ C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\obj\Debug\net7.0\refint\MMC
 C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\obj\Debug\net7.0\MMC.API.pdb
 C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\obj\Debug\net7.0\MMC.API.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\obj\Debug\net7.0\ref\MMC.API.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MMC.Application.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MMC.DOMAIN.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MMC.Infrastructure.dll
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MMC.Application.pdb
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MMC.DOMAIN.pdb
+C:\Users\DELL\OneDrive\Bureau\MMCproject\MMC\MMC.API\bin\Debug\net7.0\MMC.Infrastructure.pdb
