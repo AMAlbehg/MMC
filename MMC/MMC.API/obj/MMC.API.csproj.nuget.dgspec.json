@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.API\\MMC.API.csproj": {}
+    "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.API\\MMC.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.API\\MMC.API.csproj": {
+    "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.API\\MMC.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.API\\MMC.API.csproj",
+        "projectUniqueName": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.API\\MMC.API.csproj",
         "projectName": "MMC.API",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.API\\MMC.API.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.API\\obj\\",
+        "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.API\\MMC.API.csproj",
+        "packagesPath": "C:\\Users\\flayo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flayo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj": {}
+    "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj": {
+    "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj",
+        "projectUniqueName": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj",
         "projectName": "MMC.Application",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\obj\\",
+        "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj",
+        "packagesPath": "C:\\Users\\flayo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flayo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
@@ -85,21 +89,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
+    "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj",
+        "projectUniqueName": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj",
         "projectName": "MMC.DOMAIN",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\obj\\",
+        "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj",
+        "packagesPath": "C:\\Users\\flayo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flayo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,21 +170,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj": {
+    "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj",
         "projectName": "MMC.Infrastructure",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Infrastructure\\MMC.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\flayo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flayo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -194,11 +198,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj": {
-                "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj"
+              "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj": {
+                "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj"
               },
-              "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
-                "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj"
+              "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
+                "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj"
               }
             }
           }
@@ -254,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
