@@ -7,10 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Modules\Speakers\Query\GetSpealersList.cs\**" />
+    <EmbeddedResource Remove="Modules\Speakers\Query\GetSpealersList.cs\**" />
+    <None Remove="Modules\Speakers\Query\GetSpealersList.cs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="DTOs\" />
     <Folder Include="Modules\Speakers\Commands\Delete\" />
     <Folder Include="Modules\Speakers\Commands\Update\" />
-    <Folder Include="Modules\Speakers\Query\GetSpealersList.cs\" />
   </ItemGroup>
 
   <ItemGroup>

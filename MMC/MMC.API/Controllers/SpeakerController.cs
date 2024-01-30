@@ -16,7 +16,7 @@ namespace MMC.API.Controllers
             _mediator = mediator;
         }
         [HttpGet]
-        public async Task<ActionResult> GetAll()
+        public async Task<ActionResult> GetAllAsync()
         {
             var resulta = await _mediator.Send(new GetAllSpeaker());
             return Ok(resulta);

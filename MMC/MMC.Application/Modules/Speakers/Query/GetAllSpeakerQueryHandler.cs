@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace MMC.Application.Modules.Speakers.Query
 {
@@ -23,7 +24,7 @@ namespace MMC.Application.Modules.Speakers.Query
 
         public async Task<List<SpeakerViewModel>> Handle(GetAllSpeaker request, CancellationToken cancellationToken)
         {
-           var speak = await _speakersRepo.GetAll();
+           var speak = await _speakersRepo.GetAllAsync();
             return _mapper.Map<List<SpeakerViewModel>>(speak);
         }
     }

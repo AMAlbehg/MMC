@@ -38,7 +38,7 @@ namespace MMC.Infrastructure.Repositories
             await _appdbContext.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<T>> GetAll()
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
             var entities = await _dbSet.ToListAsync();
             if (entities == null || !entities.Any())
