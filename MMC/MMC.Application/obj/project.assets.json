@@ -3067,19 +3067,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\flayo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj",
+      "projectUniqueName": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj",
       "projectName": "MMC.Application",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\MMC.Application.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.Application\\obj\\",
+      "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\MMC.Application.csproj",
+      "packagesPath": "C:\\Users\\flayo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\flayo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3093,8 +3093,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
-              "projectPath": "C:\\Users\\DELL\\OneDrive\\Bureau\\MMCproject\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj"
+            "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj": {
+              "projectPath": "C:\\Users\\flayo\\Source\\Repos\\MMC\\MMC\\MMC.DOMAIN\\MMC.DOMAIN.csproj"
             }
           }
         }
@@ -3166,7 +3166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
